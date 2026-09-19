@@ -1,18 +1,29 @@
 ---
-title: "Theodore Brown Jr"
-
+title: "Be The Change You Wanna See"
+about:
+  template: trestles
+  image: IMG_4527.jpeg
+  image-shape: rounded
+  image-width: 16em
 ---
+# Who am I?
+
+I'm a Master of Public Health student at Morehouse School of Medicine working
+at the intersection of data science, public health, and applied research. My
+goal is to translate complex data into insights people can actually use.
 
 
-Theodore P. Brown Jr.
-Public Health • Data Science • Health Equity
+## Turning Data Into Better Public Health
 
-I am a Master of Public Health student at Morehouse School of Medicine with a background in biomedical sciences.
+I believe change is possible, and that data science, health equity, and systems-level thinking are among the sharpest tools we have for reducing the disparities communities face worldwide.
 
-My interests include public health, data science, health equity, and healthcare. I use tools such as R, Python, and Quarto to explore public health data and communicate findings through data visualization.
+Right now, my work explores how data can help us understand the social, environmental, and structural factors that shape health outcomes from energy burden and air quality in Atlanta neighborhoods to how AI infrastructure gets sited in the communities least equipped to absorb its costs.
 
-Welcome
+What I'm building toward is simple. Communities should have the resources to care for their own health and our systems should be built around preventing illness, not just treating it.
 
-This website serves as a collection of my projects, research, and work in public health and data science.
+## Let us Build the future Together 
 
-View My Projects →
+If you're working on applied data science in healthcare or advancing equitable
+health outcomes, I'd like to hear about it.
+
+[Get in Touch →](Contact.html){.btn .btn-primary}

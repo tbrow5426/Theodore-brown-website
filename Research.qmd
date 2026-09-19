@@ -2,6 +2,61 @@
 title: "Research"
 ---
 
-### Community-Negotiated Public Health Model for Data Center Development
+## Community-Negotiated Public Health Model for Data Center Development
 
-As AI infrastructure expands, data centers are being sited in neighborhoods with little say in the decision and little visibility into the environmental and health consequences. Using JBI scoping review methodology, the PCC framework, and stakeholder mapping, I'm building a portable model that puts community negotiation at the center of how these projects get planned, approved, and managed.
+As AI infrastructure expands, data centers are being placed in neighborhoods
+that have little say in the decision and little visibility into the
+environmental and health consequences that follow.
+
+### The exposures at stake
+
+The public health concerns cluster into four areas:
+
+**Water.** Large facilities draw heavily on local water for evaporative
+cooling, competing with residential and agricultural demand in watersheds that
+may already be stressed.
+
+**Energy sourcing.** Rapid load growth is being met in part by extending the
+life of fossil generation or bringing on new gas capacity, which shifts the
+question from how much power a facility uses to what that power is made of and
+who breathes the byproducts.
+
+**Emissions accounting.** Scope 2 emissions — those tied to purchased
+electricity — often fall outside the boundaries of local environmental review
+even though they represent the bulk of a facility's carbon footprint.
+Greenhouse gas contributions and localized air quality effects from backup
+diesel generation are similarly under-captured.
+
+**Facility design.** Where a facility is placed, how it's cooled, where the
+generators sit, setback distance, and noise attenuation all shape how much of
+the burden lands on adjacent residents. These are design decisions, which
+means they could be negotiable decisions.
+
+### Methods
+
+The review follows JBI scoping review methodology, structured through the PCC
+framework and paired with stakeholder mapping to identify where communities
+hold real leverage in the siting and approval process.
+
+Because the regulatory landscape is moving faster than the peer-reviewed
+literature, the review deliberately incorporates grey literature: executive
+orders, state accountability frameworks, permit filings, utility resource
+plans, and local land use records. Virginia's Executive Order 22, signed
+September 18, 2026, illustrates why this matters. It establishes a statewide
+Data Center Accountability Framework, bars executive branch agencies from
+entering non-disclosure agreements on data center projects, replaces by-right
+approval with public hearing requirements for projects above 25 megawatts, and
+directs agencies to develop standards for emissions, water use, and energy
+costs.
+
+That order is the clearest signal yet that the transparency gap this model
+addresses is being recognized at the state level — and it arrived through
+policy channels, not journals.
+
+### Status and output
+
+**Status:** [scoping review in progress]
+
+**Methods:** JBI scoping review, PCC framework, stakeholder mapping
+
+**Output:** [manuscript / portable framework / presentation]
