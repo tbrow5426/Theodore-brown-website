@@ -1,7 +1,0 @@
----
-title: "Research"
----
-
-### Community-Negotiated Public Health Model for Data Center Development
-
-As AI infrastructure expands, data centers are being sited in neighborhoods with little say in the decision and little visibility into the environmental and health consequences. Using JBI scoping review methodology, the PCC framework, and stakeholder mapping, I'm building a portable model that puts community negotiation at the center of how these projects get planned, approved, and managed.
