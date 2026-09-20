@@ -12,17 +12,17 @@ environmental and health consequences that follow.
 
 The public health concerns cluster into four areas:
 
-**Water.** Large facilities draw heavily on local water for evaporative
+**Water.** Large facilities draw heavily on local water for
 cooling, competing with residential and agricultural demand in watersheds that
-may already be stressed.
+may already be stressed.However a lot of big tech companies claim to invest in those local watersheds.
 
 **Energy sourcing.** Rapid load growth is being met in part by extending the
 life of fossil generation or bringing on new gas capacity, which shifts the
 question from how much power a facility uses to what that power is made of and
 who breathes the byproducts.
 
-**Emissions accounting.** Scope 2 emissions — those tied to purchased
-electricity — often fall outside the boundaries of local environmental review
+**Emissions accounting.** Scope 2 emissions  those tied to purchased
+electricity  often fall outside the boundaries of local environmental review
 even though they represent the bulk of a facility's carbon footprint.
 Greenhouse gas contributions and localized air quality effects from backup
 diesel generation are similarly under-captured.
@@ -50,7 +50,7 @@ directs agencies to develop standards for emissions, water use, and energy
 costs.
 
 That order is the clearest signal yet that the transparency gap this model
-addresses is being recognized at the state level — and it arrived through
+addresses is being recognized at the state level and it arrived through
 policy channels, not journals.
 
 ### Status and output
